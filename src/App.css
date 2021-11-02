@@ -28,6 +28,33 @@
   color: #61dafb;
 }
 
+.Input-1 {
+
+  background-color:gray;
+
+}
+
+.Btn-1 {
+
+  background-color: #0a94f6;
+
+}
+
+.Btn-2 {
+
+  background-color: #000000;
+
+  color: white;
+
+}
+
+.Line-T{
+
+  text-decoration: line-through;
+
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +63,4 @@
     transform: rotate(360deg);
   }
 }
+
